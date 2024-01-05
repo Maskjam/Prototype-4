@@ -283,3 +283,4 @@ Received Import Request.
 Start importing Assets/Course Library/Script/Enemy.cs using Guid(1b98bed3d619d4f15afe798a78f4c4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9c2e88168c7af5e1a21fac9e117055d') in 0.003243 seconds 
   Import took 0.004910 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
