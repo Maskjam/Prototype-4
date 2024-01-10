@@ -231,6 +231,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyPerfab: {fileID: 3487123912254381478, guid: 988276a3a0afa4093bad1a7686754d64, type: 3}
   powerupPrefab: {fileID: 4693825047692280923, guid: 14966060e8d674c8fbfb2626a37bf71e, type: 3}
+  enemyCount: 0
+  waveNumber: 1
 --- !u!4 &589794140
 Transform:
   m_ObjectHideFlags: 0
@@ -252,6 +254,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2051757228, guid: 343eeba9ac12b4af483d51233064afd7, type: 3}
+      propertyPath: hasPowerup
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4553646784998626504, guid: 343eeba9ac12b4af483d51233064afd7, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -296,16 +302,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4553646784998626507, guid: 343eeba9ac12b4af483d51233064afd7, type: 3}
-      propertyPath: m_Material
-      value: 
-      objectReference: {fileID: 13400000, guid: e28d438ffff68453ca54f59e70030c57, type: 2}
     - target: {fileID: 4553646784998626508, guid: 343eeba9ac12b4af483d51233064afd7, type: 3}
       propertyPath: m_Name
-      value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 4553646784998626508, guid: 343eeba9ac12b4af483d51233064afd7, type: 3}
-      propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -619,26 +617,6 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 8878a37eb67ddac4ead51890a31d6a18, type: 3}
---- !u!1 &2051757227 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4553646784998626508, guid: 343eeba9ac12b4af483d51233064afd7, type: 3}
-  m_PrefabInstance: {fileID: 1066325526}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2051757228
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2051757227}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 580d4d08035a04874aa83296d775bc16, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 5
-  hasPowerup: 1
-  powerupIndicator: {fileID: 6389629360454900087, guid: 3151ff2caae8d4663936bcf4dff031df, type: 3}
 --- !u!1001 &7305732181041295649
 PrefabInstance:
   m_ObjectHideFlags: 0

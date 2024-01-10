@@ -13,7 +13,6 @@ public class SpawnManager : MonoBehaviour
     void Start()
     { 
        SpawnEnemyWave(waveNumber);
-         Instantiate(powerupPrefab, GenerateSpawnPosition(), powerupPrefab.transform.rotation);
 
         Instantiate(powerupPrefab, GenerateSpawnPosition(), powerupPrefab.transform.rotation);
        
@@ -32,7 +31,12 @@ public class SpawnManager : MonoBehaviour
     void Update()
     {
         enemyCount = FindObjectsOfType<Enemy>().Length;
-        if (enemyCount == 0 ) { Instantiate(powerupPrefab, GenerateSpawnPosition(), powerupPrefab.transform.rotation);}
+        if (enemyCount == 0 ) 
+        {
+            waveNumber++;
+            SpawnEnemyWave(waveNumber);
+            Instantiate(powerupPrefab, GenerateSpawnPosition(), powerupPrefab.transform.rotation);
+        }
     }
 
     void SpawnEnemyWave(int enemiesToSpawn)
