@@ -155,3 +155,4 @@ Received Import Request.
 Start importing Assets/Scenes/Prototype 4.unity using Guid(a4b96ad7a65484fd4a83cb97540eee50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a35ea0a73a12b8bc09e8ee4aa1e6f7b5') in 0.008352 seconds 
   Import took 0.011050 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
