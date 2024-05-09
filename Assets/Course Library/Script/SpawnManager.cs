@@ -43,7 +43,9 @@ public class SpawnManager : MonoBehaviour
     {
         for(int i = 0; i < enemiesToSpawn; i++)
         {
-             Instantiate(enemyPerfab, GenerateSpawnPosition(), enemyPerfab.transform.rotation);
+            int randomEnemy = Random.Range (0 ,enemyPerfab.Length);
+             Instantiate(enemyPerfab [randomEnemy], GenerateSpawnPosition(), enemyPerfab[randomEnemy].transform.rotation);
+
         }
     }
 }
