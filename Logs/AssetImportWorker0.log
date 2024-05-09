@@ -227,3 +227,164 @@ Received Import Request.
 Start importing Assets/Course Library/Pefabs/Fast_enemy.prefab using Guid(7be68cd5844054058baa3ac37c7ba7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d2ca24d39c17430db8e9405cf1af055') in 0.010496 seconds 
   Import took 0.012737 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 60.011227 seconds.
+  path: Assets/Course Library/Pickups/DollarSign.prefab
+  artifactKey: Guid(a8a06204dcfa9784b86eba87c2e0a1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Pickups/DollarSign.prefab using Guid(a8a06204dcfa9784b86eba87c2e0a1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d7726c096db7e63caccd879329d76e') in 0.010438 seconds 
+  Import took 0.012762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Course Library/_Source_Files/Materials/FX_Mist.prefab
+  artifactKey: Guid(3fd5555088952419ebf0eb82e9096fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Materials/FX_Mist.prefab using Guid(3fd5555088952419ebf0eb82e9096fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd88d796f67de83aaceb8bac57f4e3371') in 0.012588 seconds 
+  Import took 0.014582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.271767 seconds.
+  path: Assets/Course Library/Pefabs/Heavy_enemy.prefab
+  artifactKey: Guid(bf37b10df41bd4f83b77b95cd13dd4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Pefabs/Heavy_enemy.prefab using Guid(bf37b10df41bd4f83b77b95cd13dd4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84bbac1f9ad27f095deef338a9436d71') in 0.009496 seconds 
+  Import took 0.011713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.631481 seconds.
+  path: Assets/Course Library/Pefabs/Heavy_enemy.prefab
+  artifactKey: Guid(bf37b10df41bd4f83b77b95cd13dd4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Pefabs/Heavy_enemy.prefab using Guid(bf37b10df41bd4f83b77b95cd13dd4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de25b9b865e3d813aa83222fb411a21') in 0.008669 seconds 
+  Import took 0.010886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.777323 seconds.
+  path: Assets/Course Library/Pefabs/Fast_enemy.prefab
+  artifactKey: Guid(7be68cd5844054058baa3ac37c7ba7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Pefabs/Fast_enemy.prefab using Guid(7be68cd5844054058baa3ac37c7ba7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97d1466c84c23c52defa7d7529c7e4b2') in 0.008929 seconds 
+  Import took 0.011226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.501020 seconds.
+  path: Assets/Course Library/Pefabs/Fast_enemy.prefab
+  artifactKey: Guid(7be68cd5844054058baa3ac37c7ba7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Pefabs/Fast_enemy.prefab using Guid(7be68cd5844054058baa3ac37c7ba7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e208a63d77b010a42e7f643eafd84533') in 0.009260 seconds 
+  Import took 0.011487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.426943 seconds.
+  path: Assets/Course Library/Pefabs/Fast_enemy.prefab
+  artifactKey: Guid(7be68cd5844054058baa3ac37c7ba7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Pefabs/Fast_enemy.prefab using Guid(7be68cd5844054058baa3ac37c7ba7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f1dbfb81739cf80203236448585ac68') in 0.008566 seconds 
+  Import took 0.010802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.688489 seconds.
+  path: Assets/Course Library/Pefabs/Heavy_enemy.prefab
+  artifactKey: Guid(bf37b10df41bd4f83b77b95cd13dd4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Pefabs/Heavy_enemy.prefab using Guid(bf37b10df41bd4f83b77b95cd13dd4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c0a3d700645df9c458c3eee0eb958e3') in 0.008464 seconds 
+  Import took 0.010941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.244953 seconds.
+  path: Assets/Course Library/Pefabs/Heavy_enemy.prefab
+  artifactKey: Guid(bf37b10df41bd4f83b77b95cd13dd4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Pefabs/Heavy_enemy.prefab using Guid(bf37b10df41bd4f83b77b95cd13dd4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54dab2f7e89079cda326181b8e07a076') in 0.008449 seconds 
+  Import took 0.010933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.747703 seconds.
+  path: Assets/Course Library/Pefabs/Heavy_enemy.prefab
+  artifactKey: Guid(bf37b10df41bd4f83b77b95cd13dd4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Pefabs/Heavy_enemy.prefab using Guid(bf37b10df41bd4f83b77b95cd13dd4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79e2340a13e63fae6a88f91deb083c66') in 0.009810 seconds 
+  Import took 0.012131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.808100 seconds.
+  path: Assets/Course Library/Pefabs/Fast_enemy.prefab
+  artifactKey: Guid(7be68cd5844054058baa3ac37c7ba7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Pefabs/Fast_enemy.prefab using Guid(7be68cd5844054058baa3ac37c7ba7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d660186653aafa43d09bfb9e0fe6a30') in 0.009429 seconds 
+  Import took 0.011648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Course Library/Pefabs/Heavy_enemy.prefab
+  artifactKey: Guid(bf37b10df41bd4f83b77b95cd13dd4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Pefabs/Heavy_enemy.prefab using Guid(bf37b10df41bd4f83b77b95cd13dd4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f59d62c430ba1fea53694f09acf960a') in 0.008858 seconds 
+  Import took 0.010872 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001499 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.889 seconds
+Domain Reload Profiling:
+	ReloadAssembly (889ms)
+		BeginReloadAssembly (100ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (732ms)
+			LoadAssemblies (60ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (274ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (259ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (173ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1505 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.1 MB.
+System memory in use after: 188.2 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2000.
+Total: 2.025530 ms (FindLiveObjects: 0.101108 ms CreateObjectMapping: 0.034293 ms MarkObjects: 1.873953 ms  DeleteObjects: 0.015619 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 41.127110 seconds.
+  path: Assets/Course Library/Pefabs/Heavy_enemy.prefab
+  artifactKey: Guid(bf37b10df41bd4f83b77b95cd13dd4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Pefabs/Heavy_enemy.prefab using Guid(bf37b10df41bd4f83b77b95cd13dd4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7e4a7cc3b8cb62cc626232a17f9443') in 0.044988 seconds 
+  Import took 0.047230 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

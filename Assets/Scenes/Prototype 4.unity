@@ -229,7 +229,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94f8dec73841f481cbae55f74c076300, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyPerfab: {fileID: 3487123912254381478, guid: 988276a3a0afa4093bad1a7686754d64, type: 3}
+  enemyPerfab:
+  - {fileID: 5602275759759498312, guid: 7be68cd5844054058baa3ac37c7ba7f8, type: 3}
+  - {fileID: 3487123912254381478, guid: 988276a3a0afa4093bad1a7686754d64, type: 3}
+  - {fileID: 6114640116615291968, guid: bf37b10df41bd4f83b77b95cd13dd4ee, type: 3}
   powerupPrefab: {fileID: 4693825047692280923, guid: 14966060e8d674c8fbfb2626a37bf71e, type: 3}
   enemyCount: 0
   waveNumber: 1
