@@ -10,6 +10,8 @@ public class PlayerController : MonoBehaviour
     public bool hasPowerup;
     private float PowerupStrength = 15.0f;
     public GameObject powerupIndicator;
+
+    bool hasExplosion;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,6 +25,21 @@ public class PlayerController : MonoBehaviour
         float forwardInput = Input.GetAxis("Vertical");
         playRb.AddForce( focalPoint.transform.forward * speed * forwardInput );
         powerupIndicator.transform.position = transform.position + new Vector3(0, -0.5f, 0);
+
+        if (hasExplosion == true && Input.GetKeyDown(KeyCode.Space))
+        {
+            var enemies = GameObject.FindGameObjectsWithTag("Enemy");
+
+            for(int i = 0; i < enemies.Length; i++)
+            {
+                enemies[i].GetComponent<Rigidbody>().AddExplosionForce(100.0f, transform.position, 20.0f, 0, ForceMode.Impulse);
+
+            }
+
+
+        }
+
+
     }
     
     private void OnTriggerEnter(Collider other)
@@ -30,6 +47,14 @@ public class PlayerController : MonoBehaviour
         if(other.CompareTag("Powerup"))
         {
             hasPowerup = true;
+            Destroy(other.gameObject);
+            powerupIndicator.gameObject.SetActive(true);
+            StartCoroutine(PowerupCountdownRoutine());
+        }
+
+        if(other.CompareTag("Explosion"))
+        {
+            hasExplosion = true;
             Destroy(other.gameObject);
             powerupIndicator.gameObject.SetActive(true);
             StartCoroutine(PowerupCountdownRoutine());
@@ -44,6 +69,7 @@ public class PlayerController : MonoBehaviour
     {
             yield return new WaitForSeconds(7);
             hasPowerup = false;
+            hasExplosion = false;
             powerupIndicator.gameObject.SetActive(false);
     }
             
